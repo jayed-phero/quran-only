@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "speaker": "Dr. Mizanur Rahman",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTsqKpS-k-akl19SzyR9jkpqhGz5j8V64H-Q&usqp=CAU",
+        "about": "Azhari, also well-known as an Islamic speaker, narrated in the 'Great Tafsir Mahfil'",
+        "lectures": [
+            {
+                "title": "আল্লাহর শুকরিয়া আদায় নিয়ামতকে বৃদ্ধি করে | Mizanur Rahman Azhari",
+                "videoUrl": "hnOvf1v2l8k"
+            },
+            {
+                "title": "রিজিক ও হায়াত বৃদ্ধির নববি টিপস by Mizanur Rahman Azhari",
+                "videoUrl": "5h4qJMEF0Nw"
+            },
+            {
+                "title": "রাসূল (সা.) এর ডেইলি রুটিন | Daily Routine of Prophet Muhammad (pbuh) | মিজানুর রহমান আজহারি",
+                "videoUrl": "Av6Rg9kzMtA"
+            },
+            {
+                "title": "কুরআনের পরিচয় | Mizanur Rahman Azhari",
+                "videoUrl": "OFVJWjBdc1c"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "speaker": "Ahmadullah",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHG5Qn0tABYazT-MAp0oP_vdbqIlsM_CAsA&usqp=CAU",
+        "about": "Azhari, also well-known as an Islamic speaker, narrated in the 'Great Tafsir Mahfil'",
+        "lectures": [
+            {
+                "title": "মসজিদের তাৎপর্য ও গুরুত্বপূর্ণ ১৫টি আদব",
+                "videoUrl": "ZOGcg4u65Qk"
+            },
+            {
+                "title": "জিন ও শয়তান থেকে বাসা বাড়ি বন্ধের পরীক্ষিত আমল",
+                "videoUrl": "8KZjFmtCHU8"
+            },
+            {
+                "title": "নামাজের দোয়াসমূহের অর্থ ও পূর্ণাঙ্গ নামাজ শিক্ষা",
+                "videoUrl": "w-_XQouPf6A"
+            },
+            {
+                "title": "হতাশা যারা জীবন ভাল লাগেনা তাদের জন্য এই ওয়াজটি দেখা অতি জরুরী | shaikh ahmadullah",
+                "videoUrl": "dnkWmV3resI"
+            }
+        ]
+    }
+]
